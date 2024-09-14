@@ -8,6 +8,8 @@ import tailwind from "../assets/tailwind.png";
 import Nodejs from "../assets/NodeJs.png";
 import git from "../assets/git.png";
 import styledComponents from "../assets/styledComponents.png";
+import mongoDB from "../assets/leaf.png";
+import restApi from "../assets/api.png";
 
 const Experience = () => {
   const technologies = [
@@ -26,6 +28,8 @@ const Experience = () => {
       title: "Styled Components",
       style: "shadow-pink-500",
     },
+    { id: 11, src: mongoDB, title: "MongoDB", style: "shadow-green-400" },
+    { id: 12, src: restApi, title: "REST Api", style: "shadow-blue-500" },
   ];
 
   return (
