@@ -1,23 +1,17 @@
-import "./App.css";
-import NavBar from "./components/NavBar";
-import Home from "./components/Home";
-import SocialLinks from "./components/SocialLinks";
-import About from "./components/About";
-import Portfolio from "./components/Portfolio";
-import Experience from "./components/Experience";
-import Contact from "./components/Contact";
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import Mainpage from "./components/Mainpage";
+import Datenschutz from "./components/Datenschutz";
+import Impressum from "./components/Impressum";
 
 function App() {
   return (
-    <div>
-      <NavBar />
-      <Home />
-      <About />
-      <Portfolio />
-      <Experience />
-      <Contact />
-      <SocialLinks />
-    </div>
+    <Router>
+      <Routes>
+        <Route path="/" element={<Mainpage />} />
+        <Route path="/Datenschutz" element={<Datenschutz />} />
+        <Route path="/Impressum" element={<Impressum />} />
+      </Routes>
+    </Router>
   );
 }
 
