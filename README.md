@@ -17,9 +17,9 @@ Design: A modern, minimalist aesthetic, emphasizing content clarity and user int
 
 ## Technologies Used
 
-React: For building reusable components and managing the app's state.
-Tailwind CSS: For creating a responsive, utility-first design system with minimal custom CSS.
-JavaScript (ES6+): For functionality and interactivity.
+React: For building reusable components and managing the app's state.  
+Tailwind CSS: For creating a responsive, utility-first design system with minimal custom CSS.  
+JavaScript (ES6+): For functionality and interactivity.  
 
 ## Features
 
