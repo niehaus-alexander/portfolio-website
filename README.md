@@ -8,9 +8,12 @@ This portfolio serves as a live demonstration of my front-end development abilit
 
 Key focuses of this project include:
 
-Usability: Ensuring an intuitive, seamless experience on all devices.
-Performance: Optimized for speed and responsiveness.
-Design: A modern, minimalist aesthetic, emphasizing content clarity and user interaction.
+Usability: Ensuring an intuitive, seamless experience on all devices.  
+
+Performance: Optimized for speed and responsiveness.  
+
+Design: A modern, minimalist aesthetic, emphasizing content clarity and user interaction.  
+
 
 ## Technologies Used
 
