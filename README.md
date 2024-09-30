@@ -56,6 +56,6 @@ I’d love to connect and discuss potential opportunities or collaborations. Fee
 
     Email: [alexander.niehaus@gmx.net]
     LinkedIn: [https://www.linkedin.com/in/alexander-niehaus-niehaus-954b73257/]
-    GitHub: [[Your GitHub Profile](https://github.com/niehaus-alexander)]
+    GitHub: [[My Github Profile](https://github.com/niehaus-alexander)]
 
 Thank you for checking out my portfolio website repository!
