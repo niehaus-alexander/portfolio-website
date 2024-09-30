@@ -8,22 +8,22 @@ This portfolio serves as a live demonstration of my front-end development abilit
 
 Key focuses of this project include:
 
-### Usability: Ensuring an intuitive, seamless experience on all devices.
-### Performance: Optimized for speed and responsiveness.
-### Design: A modern, minimalist aesthetic, emphasizing content clarity and user interaction.
+Usability: Ensuring an intuitive, seamless experience on all devices.
+Performance: Optimized for speed and responsiveness.
+Design: A modern, minimalist aesthetic, emphasizing content clarity and user interaction.
 
 ## Technologies Used
 
-### React: For building reusable components and managing the app's state.
-### Tailwind CSS: For creating a responsive, utility-first design system with minimal custom CSS.
-### JavaScript (ES6+): For functionality and interactivity.
+React: For building reusable components and managing the app's state.
+Tailwind CSS: For creating a responsive, utility-first design system with minimal custom CSS.
+JavaScript (ES6+): For functionality and interactivity.
 
 ## Features
 
-###Dynamic Components: Built with React for a smooth, interactive user experience.
-###Project Portfolio: Detailed information on my work, with live demos and links to GitHub repositories.
-###Contact Form: Easily accessible form to get in touch for collaborations or opportunities.
-###Optimized Performance: Fast load times, thanks to Tailwind’s small footprint and optimized build.
+Dynamic Components: Built with React for a smooth, interactive user experience.
+Project Portfolio: Detailed information on my work, with live demos and links to GitHub repositories.
+Contact Form: Easily accessible form to get in touch for collaborations or opportunities.
+Optimized Performance: Fast load times, thanks to Tailwind’s small footprint and optimized build.
 
 ## Setup and Deployment
 
