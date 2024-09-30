@@ -8,11 +8,11 @@ This portfolio serves as a live demonstration of my front-end development abilit
 
 Key focuses of this project include:
 
-    Usability: Ensuring an intuitive, seamless experience on all devices.
-    Performance: Optimized for speed and responsiveness.
-    Design: A modern, minimalist aesthetic, emphasizing content clarity and user interaction.
+Usability: Ensuring an intuitive, seamless experience on all devices.
+Performance: Optimized for speed and responsiveness.
+Design: A modern, minimalist aesthetic, emphasizing content clarity and user interaction.
 
- ## Technologies Used
+## Technologies Used
 
 React: For building reusable components and managing the app's state.
 Tailwind CSS: For creating a responsive, utility-first design system with minimal custom CSS.
@@ -32,25 +32,17 @@ To view the website locally, follow these steps:
 
 Clone this repository:
 
-    bash
-
     git clone https://github.com/niehaus-alexander/portfolio-website.git
 
 Navigate to the project directory:
-
-    bash
 
     cd portfolio-website
 
 Install dependencies:
 
-    bash
-
     npm install
 
 Start the development server:
-
-    bash
 
     npm start
 
