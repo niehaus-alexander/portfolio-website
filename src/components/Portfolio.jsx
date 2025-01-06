@@ -1,6 +1,7 @@
 import survivalpets from "../assets/portfolio/survivalpets.jpg";
 import portfolio from "../assets/portfolio/portfolio.jpg";
 import recipe from "../assets/portfolio/recipe.png";
+import movieApi from "../assets/portfolio/movieApi.png";
 
 const Portfolio = () => {
   const portfolios = [
@@ -23,6 +24,12 @@ const Portfolio = () => {
       src: recipe,
       demoLink: "https://lazy-recipe.netlify.app/",
       githubLink: "https://github.com/niehaus-alexander/recipe-generator",
+    },
+    {
+      id: 4,
+      src: movieApi,
+      demoLink: "https://github.com/niehaus-alexander/MovieAPI",
+      githubLink: "https://github.com/niehaus-alexander/MovieAPI",
     },
   ];
 
