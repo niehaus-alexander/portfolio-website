@@ -1,7 +1,7 @@
 import survivalpets from "../assets/portfolio/survivalpets.jpg";
 import portfolio from "../assets/portfolio/portfolio.jpg";
 import recipe from "../assets/portfolio/recipe.png";
-import movieApi from "../assets/portfolio/movieApi.png";
+import movieApi from "../assets/portfolio/movieApi.jpg";
 
 const Portfolio = () => {
   const portfolios = [
