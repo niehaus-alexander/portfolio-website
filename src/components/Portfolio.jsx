@@ -1,7 +1,8 @@
 import survivalpets from "../assets/portfolio/survivalpets.jpg";
 import portfolio from "../assets/portfolio/portfolio.jpg";
 import recipe from "../assets/portfolio/recipe.png";
-import movieApi from "../assets/portfolio/movieApi.jpg";
+import Avatar from "../assets/portfolio/Avatar.jpg";
+// import kohäsion from "../assets/portfolio/kohäsion.jpg";
 
 const Portfolio = () => {
   const portfolios = [
@@ -27,16 +28,23 @@ const Portfolio = () => {
     },
     {
       id: 4,
-      src: movieApi,
+      src: Avatar,
       demoLink: "https://github.com/niehaus-alexander/MovieAPI",
       githubLink: "https://github.com/niehaus-alexander/MovieAPI",
     },
+
+    // {
+    //   id: 5,
+    //   src: kohäsion,
+    //   demoLink: "",
+    //   githubLink: "",
+    // },
   ];
 
   return (
     <div
       name="portfolio"
-      className="bg-gradient-to-b from-black to-gray-800 w-full text-white md:h-screen"
+      className="bg-gradient-to-b from-black to-gray-800 w-full text-white"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full pt-20">
         <div className="pb-8">

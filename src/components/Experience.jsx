@@ -22,12 +22,6 @@ const Experience = () => {
     { id: 7, src: Nodejs, title: "Node JS", style: "shadow-green-400" },
     { id: 8, src: github, title: "Github", style: "shadow-gray-400" },
     { id: 9, src: git, title: "Git", style: "shadow-orange-700" },
-    {
-      id: 10,
-      src: styledComponents,
-      title: "Styled Components",
-      style: "shadow-pink-500",
-    },
     { id: 11, src: mongoDB, title: "MongoDB", style: "shadow-green-400" },
     { id: 12, src: restApi, title: "REST Api", style: "shadow-blue-500" },
   ];
