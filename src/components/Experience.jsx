@@ -7,7 +7,7 @@ import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
 import Nodejs from "../assets/NodeJs.png";
 import git from "../assets/git.png";
-import styledComponents from "../assets/styledComponents.png";
+import Java from "../assets/Java.png";
 import mongoDB from "../assets/leaf.png";
 import restApi from "../assets/api.png";
 
@@ -21,6 +21,8 @@ const Experience = () => {
     { id: 6, src: nextjs, title: "Next JS", style: "shadow-white" },
     { id: 7, src: Nodejs, title: "Node JS", style: "shadow-green-400" },
     { id: 8, src: github, title: "Github", style: "shadow-gray-400" },
+    { id: 13, src: Java, title: "Java", style: "shadow-gray-400" },
+
     { id: 9, src: git, title: "Git", style: "shadow-orange-700" },
     { id: 11, src: mongoDB, title: "MongoDB", style: "shadow-green-400" },
     { id: 12, src: restApi, title: "REST Api", style: "shadow-blue-500" },
