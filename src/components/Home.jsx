@@ -1,4 +1,4 @@
-import heroImage from "../assets/heroImage.jpg";
+import heroImage from "../assets/BusinessShot.jpeg";
 import { HiOutlineArrowRight } from "react-icons/hi2";
 import { Link } from "react-scroll";
 
@@ -17,8 +17,8 @@ const Home = () => {
             I`m a Software Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I love working on web applications using technologies like React,
-            Tailwind, Node.js, Next.js and many more.
+            I love working on fullstack applications using technologies like
+            React, Tailwind, .Net, Next.js, SQL and many more.
           </p>
 
           <div>
